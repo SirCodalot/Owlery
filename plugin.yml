@@ -1,0 +1,12 @@
+main: Owlery.Loader
+name: Owlery
+version: 1.0
+author: SirCodalot
+description: My RowlingRealm's trial
+depend: [ProtocolLib]
+
+commands:
+  mailbox:
+    description: Open Mailbox
+  owl:
+    description: Spawn and Despawn Owl NPCs
